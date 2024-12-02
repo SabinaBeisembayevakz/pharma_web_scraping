@@ -104,7 +104,7 @@ def scraper(browser):
 
 def main():
     
-    project_name = 'pg-kz-n-app-847976'
+    project_name = 'project_name'
     dataset_name = 'rauza_ade'
     cloud_storage = 'rauza-ade'
 
