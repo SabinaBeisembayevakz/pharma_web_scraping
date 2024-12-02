@@ -102,7 +102,7 @@ def scraper (browser):
     return df
 
 def main():
-    project_name = 'pg-kz-n-app-847976'
+    project_name = 'project_name'
     dataset_name = 'europharma'
     cloud_storage = 'europharma'
 
